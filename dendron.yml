@@ -8,7 +8,7 @@ noLegacyNoteRef: true
 lookupConfirmVaultOnCreate: false
 site:
   assetsPrefix: jgmdendron
-  siteUrl: https://github.com/gusmmm
+  siteUrl: https://gusmmm.github.io
   copyAssets: true
   siteHierarchies:
     - root
