@@ -7,7 +7,7 @@ noAutoCreateOnDefinition: true
 noLegacyNoteRef: true
 lookupConfirmVaultOnCreate: false
 site:
-  assetsPrefix: jgmdendron/blob/main
+  assetsPrefix: jgmdendron/tree/main
   siteUrl: https://github.com/gusmmm
   copyAssets: true
   siteHierarchies:
